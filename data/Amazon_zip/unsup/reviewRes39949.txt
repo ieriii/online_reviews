@@ -1,0 +1,1 @@
+food: 18 decor: 16 service: 15 cost: 20 overall: $35-50 Zero to nine means poor to fair; 10 to 15 means fair to good; 16 to 19 means good to very good; 20 to 25 means very good to excellent; and 26 to 30 means excellent to perfection. Cost is a reflection of diner and 1 drink.
