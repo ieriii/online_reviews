@@ -1,5 +1,5 @@
 # Fake reviews identification using transfer learning
-We study the effectiveness of transfer learning for the detection of fake reviews. We develop the Universal Language Model Fine-tuning [Howard and Ruder, 2018](https://arxiv.org/abs/1801.06146) for fake reviews detection.
+We study the effectiveness of transfer learning for the detection of fake reviews. We develop the Universal Language Model Fine-tuning [Howard and Ruder, 2018](https://arxiv.org/abs/1801.06146) for fake reviews detection and demonstrate that it can successully detect fake reviews.
 
 ## Notebooks
 **Amazon_ulmfit.ipynb** notebook contains the following:
@@ -11,10 +11,15 @@ We study the effectiveness of transfer learning for the detection of fake review
 We use MLP as one of the baseline to compare the performance of our fake review classifier in Amazon_ulmfit.ipynb
 
 ## Running the code
-To run the code please do the following:
+
+### Data
 - create a separate `data` folder in your repo
-- extract Amazon.zip file in the `data` folder
+- extract zip file or locate relevant files in the `data` folder
 - if necessary, amend the `path` variable in the `Settings` codeblock of each jupyter notebook.
+
+**Note**: 
+The `train` and `test` data can be downloaded from: https://myleott.com/op-spam.html
+We use additional `unsup` data to train the language model from: http://odds.cs.stonybrook.edu/yelpchi-dataset/
 
 ### Installation requirements
 The code has been developed and run on Salamander server (www.salamander.ai) which supports Pytorch v1 and Fastai v1 library.  
