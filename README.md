@@ -5,7 +5,7 @@
 - Performance metrics and interpretation analysis using Sequential Jacobian and LIME
 - Sensitivity and robustness checks
 
-**Amazon_mlp.ipynb** contains the architecture, training and testing of a MultiLayer Perceptron (MLP).
+**Amazon_mlp.ipynb** notebook contains the architecture, training and testing of a MultiLayer Perceptron (MLP).
 We use MLP as one of the baseline to compare the performance of our fake review classifier in Amazon_ulmfit.ipynb
 
 # Running the code
