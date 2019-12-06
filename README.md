@@ -1,5 +1,5 @@
 # Fake reviews identification using transfer learning
-We study the effectiveness of transfer learning for the detection of fake reviews. We develop the Universal Language Model Fine-tuning [Howard and Ruder, 2018](https://arxiv.org/abs/1801.06146) for fake reviews detection and demonstrate that it can successully detect fake reviews.
+We study the effectiveness of transfer learning for the detection of fake reviews. We develop the Universal Language Model Fine-tuning (ULMFiT) by [Howard and Ruder, 2018](https://arxiv.org/abs/1801.06146) for fake reviews detection and demonstrate that it can successully detect fake reviews.
 
 ## Notebooks
 **Amazon_ulmfit.ipynb** notebook contains the following:
