@@ -13,8 +13,8 @@ We use MLP as one of the baseline to compare the performance of our fake review 
 ## Running the code
 
 ### Data
-- create a separate `data` folder in your repo
-- extract zip file or locate relevant files in the `data` folder
+- create a separate `data` folder in your repo and `train`, `test`, `unsup` subfolders;
+- extract zip file or locate relevant files in the `data` folder and relevant subfolders; and
 - if necessary, amend the `path` variable in the `Settings` codeblock of each jupyter notebook.
 
 **Note**: 
