@@ -22,8 +22,7 @@ The `train` and `test` data can be downloaded from: https://myleott.com/op-spam.
 We use additional `unsup` data to train the language model from: http://odds.cs.stonybrook.edu/yelpchi-dataset/
 
 ### Installation requirements
-The code has been developed and run on Salamander server (www.salamander.ai) which supports Pytorch v1 and Fastai v1 library.  
-If you want to run the jupyter notebooks on another server provider (e.g. Kaggle) or personal server, please refer to the Fastai installation guidelines: https://docs.fast.ai/install.html
+The code has been developed and run on Salamander server (www.salamander.ai) which supports Pytorch v1 and Fastai v1 library. If you want to run the jupyter notebooks on another server provider (e.g. Kaggle) or personal server, please refer to the Fastai installation guidelines: https://docs.fast.ai/install.html
 
 **Note**: the code has been developed using Fastai v1.0.58
 
