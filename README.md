@@ -10,6 +10,8 @@ We study the effectiveness of transfer learning for the detection of fake review
 **Amazon_mlp.ipynb** notebook contains the architecture, training and testing of a MultiLayer Perceptron (MLP).
 We use MLP as one of the baseline to compare the performance of our fake review classifier in Amazon_ulmfit.ipynb
 
+**Utils_unzip_data** contains a short code snippet to unzip data.
+
 ## Running the code
 
 ### Data
